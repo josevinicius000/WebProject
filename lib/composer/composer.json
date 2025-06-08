@@ -1,0 +1,16 @@
+{
+    "name": "project/calendar",
+    "description": "Calendário com Agenda",
+    "authors": [
+        {
+            "name": "José Vinicius de Quadros Albano"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\" : "../../class",
+            "Models\\" : "../../model"
+        }
+    }
+}
